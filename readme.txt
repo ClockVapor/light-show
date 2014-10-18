@@ -1,4 +1,4 @@
-Light Show v0.1.0 (2 March 2014)
+Light Show v0.2.0 (18 October 2014)
 Copyright (C) 2014 Nick Lowery (nick.a.lowery@gmail.com)
 See license.txt for full license.
 
